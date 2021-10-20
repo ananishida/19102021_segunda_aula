@@ -1,0 +1,14 @@
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.exe
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.deps.json
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.runtimeconfig.json
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.runtimeconfig.dev.json
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.dll
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\bin\Debug\netcoreapp3.1\19102021 aula 2.pdb
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.csproj.AssemblyReference.cache
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.AssemblyInfoInputs.cache
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.AssemblyInfo.cs
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.csproj.CoreCompileInputs.cache
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.dll
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.pdb
+C:\Users\anani\OneDrive\Área de Trabalho\BOOTCAMP\19102021 aula 2\19102021 aula 2\obj\Debug\netcoreapp3.1\19102021 aula 2.genruntimeconfig.cache
